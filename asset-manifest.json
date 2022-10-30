@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SPAReactFood/static/css/main.179c538c.css",
+    "main.js": "/SPAReactFood/static/js/main.0c395504.js",
+    "index.html": "/SPAReactFood/index.html",
+    "main.179c538c.css.map": "/SPAReactFood/static/css/main.179c538c.css.map",
+    "main.0c395504.js.map": "/SPAReactFood/static/js/main.0c395504.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.179c538c.css",
+    "static/js/main.0c395504.js"
+  ]
+}
