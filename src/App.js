@@ -11,7 +11,7 @@ import Recipe from "./pages/Recipe";
 function App() {
   return (
     <React.Fragment>
-      <Router>
+      <Router basename='/SPAReactFood'>
         <Header></Header>
         <main className="container content">
           <Switch>
